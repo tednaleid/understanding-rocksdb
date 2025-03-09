@@ -1,4 +1,4 @@
-theme: TargetFira, 1
+theme: TargetFira - understanding-rocksdb, 1
 slidenumbers: true
 
 ![right, 80%](images/rocksdb_high_level.png)
